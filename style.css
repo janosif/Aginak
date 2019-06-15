@@ -1,0 +1,27 @@
+Body 
+{
+
+	background-color: #CCDDFF; 
+	font-family: Helvetica;
+
+}
+
+
+
+.Greetings 
+{
+	font-size: 32px;
+        font-weight: bold;
+	text-align: center; 
+	color: #0000FF; 
+
+} 
+
+.Text 
+{
+        font-size: 28px;
+	font-weight: bold;
+	text-align: center; 
+	color: #0000FF;
+	
+} 
